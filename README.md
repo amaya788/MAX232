@@ -7,7 +7,7 @@ Se utiliza principalmente en la comunicación entre microcontroladores y disposi
 ---
 ## ⚡ Esquema típico
 El MAX232 requiere **4 capacitores externos** para generar los voltajes necesarios mediante un **charge pump** interno.
-<h2><p align="center"> <b> <img width="604" height="415" alt="image" src="https://github.com/user-attachments/assets/b8a6798b-378b-4e8d-8abf-025d4a5ef54a" /> </b> </h2> 
+<h2><p align="center"> <b> <img width="541" height="341" alt="image" src="https://github.com/user-attachments/assets/a86e023e-10b6-4458-9f70-cb0b571414f6" /> </b> </h2> 
 
 ---
 ## 🔎 Variantes
