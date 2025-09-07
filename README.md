@@ -1,9 +1,9 @@
-## <h2><p align="center"> <b> # MAX232 - Guía Informativa  </b> </h2> 
+## <h2><p align="center"> <b> MAX232 - Guía Informativa  </b> </h2> 
 
 ## 📖 Descripción
 
-El **MAX232** es un circuito integrado diseñado para convertir niveles lógicos **TTL/CMOS (0–5 V o 3.3 V)** a niveles **RS-232 (±12 V)** y viceversa.  
-Se utiliza principalmente en la comunicación entre **microcontroladores** y **dispositivos RS-232** como PCs, routers o equipos industriales.
+El MAX232 es un circuito integrado diseñado para convertir niveles lógicos TTL/CMOS (0–5 V o 3.3 V) a niveles RS-232 (±12 V) y viceversa.  
+Se utiliza principalmente en la comunicación entre microcontroladores y dispositivos RS-232 como PCs, routers o equipos industriales.
 ---
 ## ⚡ Esquema típico
 El MAX232 requiere **4 capacitores externos** para generar los voltajes necesarios mediante un **charge pump** interno.
