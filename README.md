@@ -1,6 +1,4 @@
-# MAX232
-## <h2><p align="center"> <b> Sensor de Tempertura  </b> </h2> 
-# MAX232 - Guía Informativa
+## <h2><p align="center"> <b> # MAX232 - Guía Informativa  </b> </h2> 
 
 ## 📖 Descripción
 
